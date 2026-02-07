@@ -1,4 +1,6 @@
-# Part I: 生物信息学写作 Prompt 集合
+生物信息学写作 Prompt 集合
+
+inspired by [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)
 
 > 💡 **使用说明**：以下 Prompt 专为生物信息学（Bioinformatics）及计算生物学（Computational Biology）领域的科研人员设计。内容涵盖论文写作、润色、图表设计及审稿回复，对标 *Nature*, *Science*, *Cell*, *Nature Genetics*, *Bioinformatics* 等顶级期刊标准。请完整复制 Prompt 使用以获得最佳效果。
 
